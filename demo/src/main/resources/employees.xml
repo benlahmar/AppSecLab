@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Employees>
+<Employee emplid="115" type="admin">
+<firstname>moi</firstname>
+<lastname>password</lastname>
+<age>20</age>
+<email>xx@pp.com</email>
+<password>pass </password>
+</Employee>
+<Employee emplid="225" type="admin">
+<firstname>hab</firstname>
+<lastname>ki kit</lastname>
+<age>20</age>
+<email>xx@pp.com</email>
+<password>passw </password>
+</Employee>
+</Employees>
